@@ -1,0 +1,7 @@
+organization=martina97
+projectKey=martina97_isw2ProvaSonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18011
+dashboardUrl=https://sonarcloud.io/dashboard?id=martina97_isw2ProvaSonar
+ceTaskId=AXgH-66XUpiW5tO_g8KO
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgH-66XUpiW5tO_g8KO
